@@ -5,7 +5,7 @@ Visualization of all the solutions of a N-Queen's Problem
 The N Queen is the problem of placing N chess queens on an N×N chessboard so that no two queens attack each other. 
 
 # Used:-
-  - Project besed on Python and PyGame Module
+  - Project based on Python and PyGame Module
  
 # Code Output:-
 
